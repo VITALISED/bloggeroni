@@ -1,0 +1,29 @@
+{
+  "title": "Will",
+  "subtitle": "Ramblings and reversing. Occassionally cohesive C++",
+  "owner": {
+    "name": "Will Castro",
+    "email": "will@k0.tel"
+  },
+  "social": {
+    "github": "VITALISED"
+  },
+  "newsletter": {
+    "showTwitterBanner": false,
+    "currentCount": "2,000",
+    "revueUsername": ""
+  },
+  "seo": {
+    "title": "Will",
+    "description": "Reverser engineer's blog",
+    "author": "Will",
+    "keywords": [
+      "blog",
+      "developer blog",
+      "engineering blog",
+      "reverse engineering",
+      "c++"
+    ]
+  },
+  "cname": "will.k0.tel"
+}
