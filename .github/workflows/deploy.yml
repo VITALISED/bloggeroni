@@ -8,7 +8,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Deploy
-        uses: koutsie/this-release-is-very-important-for-the-endurance-of-the-human-race-also-dark-mode-for-you-buddy-btw-also-i-still-hate-js
+        uses: koutsie/vitalised-styled-blog-nice@this-release-is-very-important-for-the-endurance-of-the-human-race-also-dark-mode-for-you-buddy-btw-also-i-still-hate-js
         with:
           branch: gh-pages # Optional branch for GitHub Pages
 
