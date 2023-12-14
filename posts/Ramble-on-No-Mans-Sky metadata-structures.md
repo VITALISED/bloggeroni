@@ -1,6 +1,6 @@
 ---
 title: Ramblings on No Man's Sky's Metadata
-date: 2023-12-3
+date: 2023-12-15
 permalink: /blog/2023/11/29/nms-metadata-ramblings/
 ---
 
