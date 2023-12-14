@@ -8,7 +8,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Deploy
-        uses: koutsie/vitalised-styled-blog-nice@i-really-love-to-draft-new-releases-all-the-time-vitalsied
+        uses: koutsie/vitalised-styled-blog-nice@another-very-long-tag-for-no-fucking-reason-because-i-reallly-love-our-workflow-here-at-vitalised-industries-and-also-is-there-really-no-limit
         with:
           branch: gh-pages # Optional branch for GitHub Pages
 
